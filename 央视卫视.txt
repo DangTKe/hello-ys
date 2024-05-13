@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1综合,http://36.248.223.25/sxv.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
+CCTV1综合,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2财经,http://36.248.223.25/sxv.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
 CCTV3综艺,http://36.248.223.25/sxv.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
 CCTV4国际,http://36.248.223.25/sxv.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576603.m3u8
